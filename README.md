@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/nidhi2355/nidhi2355/blob/main/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nidhi Goyal</h1>
 
 <h3 align="center">
