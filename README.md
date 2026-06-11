@@ -194,7 +194,7 @@ from Healthcare AI to Agentic Systems and Cloud Applications.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://codolio.com/ni.dhii">
+<a href="https://codolio.com/profile/ni.dhii">
 <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/>
 </a>
 
