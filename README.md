@@ -4,9 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Nidhi Goyal</h1>
 
+<h2 align="center">
+Building AI Applications • Solving DSA Problems • Exploring Cloud Technologies
+</h2>
 <h3 align="center">
-Computer Science Undergraduate | AI/ML Enthusiast | Competitive Programmer
+💡 Passionate about building AI-powered solutions that solve real-world problems,
+from Healthcare AI to Agentic Systems and Cloud Applications.
 </h3>
+
 
 <p align="center">
   <a href="https://github.com/nidhi2355">
@@ -145,6 +150,13 @@ Computer Science Undergraduate | AI/ML Enthusiast | Competitive Programmer
 
 ---
 
+## 🔥 LeetCode Streak
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_nidhiiii?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
 ## 📈 GitHub Statistics
 
 <p align="center">
@@ -165,12 +177,6 @@ Computer Science Undergraduate | AI/ML Enthusiast | Competitive Programmer
 
 ---
 
-## 🔥 LeetCode Streak
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_nidhiiii?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
