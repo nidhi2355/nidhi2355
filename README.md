@@ -21,86 +21,31 @@ from Healthcare AI to Agentic Systems and Cloud Applications.
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack
 
-🎓 B.Tech Computer Science Student at JECRC University, Jaipur
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-📈 CGPA: **9.46/10** (Till 5th Semester)
+**AI/ML & Frameworks**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-💻 Solved **750+ DSA problems** across coding platforms
-
-🤖 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-
-🌱 Currently exploring:
-- LangGraph
-- Advanced RAG Systems
-- AI Agents
-- Data Science Workflows
-
----
-
-## 💼 Experience
-
-### Data Science Intern
-**Celebal Technologies Pvt Ltd**
-
-**May 2026 – Present**
-
-- Working on industry-aligned Data Science use cases.
-- Building practical expertise using real-world datasets.
-- Learning end-to-end Data Science workflows under mentorship.
+**Libraries**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-444?style=flat-square)
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-
----
-
-### AI / ML
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-- RAG
-- Agentic AI
-
----
-
-### Frameworks & Platforms
-
-- TensorFlow
-- LangChain
-- LangGraph
-- Google Cloud Platform
-- Docker
-
----
-
-### Libraries
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- STL
-
----
 
 ## 🔥 Featured Projects
 
