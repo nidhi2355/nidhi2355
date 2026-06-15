@@ -117,7 +117,7 @@ from Healthcare AI to Agentic Systems and Cloud Applications.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2355&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2355&theme=tokyonight" />
 </p>
 
 ---
