@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, i'm nidhi 👋
+# Hey, i'm Nidhi 👋
 
 ### I build things at the intersection of AI and real problems
 
